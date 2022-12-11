@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTeam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Team>
+    <PlayerList />
+    <teamData>
+      <PlayerList />
+      <comboBoxIndexes>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+        <int>-1</int>
+      </comboBoxIndexes>
+      <x>0</x>
+    </teamData>
+    <formation>
+      <Positions>
+        <string>GK</string>
+        <string>LB</string>
+        <string>CB</string>
+        <string>CB</string>
+        <string>RB</string>
+        <string>CM</string>
+        <string>CM</string>
+        <string>CM</string>
+        <string>ST</string>
+        <string>ST</string>
+        <string>ST</string>
+      </Positions>
+      <Name>4-3-3</Name>
+      <DEFCount>4</DEFCount>
+      <MIDCount>3</MIDCount>
+      <STCount>3</STCount>
+    </formation>
+    <Nationality>Poland</Nationality>
+    <points>0</points>
+    <goalsScored>0</goalsScored>
+    <goalsLost>0</goalsLost>
+    <goalsDiff>0</goalsDiff>
+    <wins>0</wins>
+    <draws>0</draws>
+    <loses>0</loses>
+  </Team>
+</ArrayOfTeam>
