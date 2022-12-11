@@ -59,7 +59,7 @@
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(191, 44);
             this.btnSave.TabIndex = 2;
-            this.btnSave.Text = "Zapisz drużynę";
+            this.btnSave.Text = "Zapisz drużyny";
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
@@ -85,7 +85,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "SaveTeamForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "SaveTeamForm";
+            this.Text = "Zapisz";
             this.ResumeLayout(false);
             this.PerformLayout();
 

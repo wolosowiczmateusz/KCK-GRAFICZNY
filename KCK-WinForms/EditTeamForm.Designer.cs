@@ -457,7 +457,7 @@
             this.MinimizeBox = false;
             this.Name = "EditTeamForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "EditTeamFrom";
+            this.Text = "Edycja";
             this.ResumeLayout(false);
             this.PerformLayout();
 

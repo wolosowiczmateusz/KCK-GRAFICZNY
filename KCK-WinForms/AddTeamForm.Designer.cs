@@ -108,7 +108,7 @@
             this.Controls.Add(this.label2);
             this.Name = "AddTeamForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "AddTeamForm";
+            this.Text = "Dodawanie drużyny";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -132,12 +132,12 @@ namespace KCK_WinForms
             {
                 MatchForm match = new MatchForm();
                 match.Show();
+                this.Visible = false;
             }
             else
             {
                 MessageBox.Show("Brak wystarczającej ilości drużyn", "Niewystarczająca ilość drużyn", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            this.Visible = false;
         }
         public void SetColors(Control control, bool darkTheme)
         {

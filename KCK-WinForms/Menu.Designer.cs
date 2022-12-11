@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             this.btnAddTeam = new System.Windows.Forms.Button();
             this.listBoxTeams = new System.Windows.Forms.ListBox();
             this.btnEditTeam = new System.Windows.Forms.Button();
@@ -145,9 +146,10 @@
             this.Controls.Add(this.btnEditTeam);
             this.Controls.Add(this.listBoxTeams);
             this.Controls.Add(this.btnAddTeam);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Menu";
+            this.Text = "Symulator meczy piłkarskich";
             this.ResumeLayout(false);
 
         }
